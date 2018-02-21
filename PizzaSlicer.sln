@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaSlicer", "PizzaSlicer.csproj", "{44EA6BC8-F5D7-4F89-8D93-C375FFF2E93E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44EA6BC8-F5D7-4F89-8D93-C375FFF2E93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44EA6BC8-F5D7-4F89-8D93-C375FFF2E93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44EA6BC8-F5D7-4F89-8D93-C375FFF2E93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44EA6BC8-F5D7-4F89-8D93-C375FFF2E93E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FCACF38-9323-4096-8A8C-DB3D6144E43F}
+	EndGlobalSection
+EndGlobal

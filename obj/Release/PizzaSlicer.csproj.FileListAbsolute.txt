@@ -1,0 +1,6 @@
+C:\Users\MG Potgieter\Documents\Code\Hashcode Practice Problem 2018\PizzaSlicer\bin\Release\PizzaSlicer.exe.config
+C:\Users\MG Potgieter\Documents\Code\Hashcode Practice Problem 2018\PizzaSlicer\bin\Release\PizzaSlicer.exe
+C:\Users\MG Potgieter\Documents\Code\Hashcode Practice Problem 2018\PizzaSlicer\bin\Release\PizzaSlicer.pdb
+C:\Users\MG Potgieter\Documents\Code\Hashcode Practice Problem 2018\PizzaSlicer\obj\Release\PizzaSlicer.csproj.CoreCompileInputs.cache
+C:\Users\MG Potgieter\Documents\Code\Hashcode Practice Problem 2018\PizzaSlicer\obj\Release\PizzaSlicer.exe
+C:\Users\MG Potgieter\Documents\Code\Hashcode Practice Problem 2018\PizzaSlicer\obj\Release\PizzaSlicer.pdb
